@@ -1,0 +1,14 @@
+https://stackoverflow.com/questions/54660069/opencv-deep-learning-face-detection-assertion-error-in-function-cvdnnconvol
+
+I can't reproduce your problem using both OpenCV 3.4.2 and OpenCV 4.0.0.
+
+Here's what I get:
+
+enter image description here
+
+P.S. I download res10_300x300_ssd_iter_140000.caffemodel from
+https://raw.githubusercontent.com/opencv/opencv_3rdparty/dnn_samples_face_detector_20170830/
+res10_300x300_ssd_iter_140000.caffemodel and 
+
+deploy.prototxt from
+https://github.com/opencv/opencv/raw/3.4.0/samples/dnn/face_detector/deploy.prototxt.

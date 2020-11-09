@@ -1,0 +1,5 @@
+https://medium.com/@shardulgo/installing-caffe-1-0-on-mac-os-x-part-1-4-64cf479be75d
+
+Start with install boost
+
+brew install protobuf boost
